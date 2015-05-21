@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!--  Edited with XML Spy v2007 (http://www.altova.com)--> 
+<country name="中国">
+	<province name="安徽">
+		<city name="安庆">桐城|枞阳|怀宁|潜山|宿松|岳西|迎江|大观|宜秀</city>
+		<city name="蚌埠">蚌山|龙子湖|禹会|淮上|怀远|固镇|五河</city>
+		<city name="毫州">利辛|蒙城|涡阳|谯城</city>
+	</province>
+	<province name="北京">
+		<city name="东城"></city>
+		<city name="西城"></city>
+		<city name="宣武"></city>
+		<city name="崇文"></city>
+		<city name="朝阳"></city>
+	</province>
+	<province name="重庆">
+		<city name="重庆"></city>
+	</province>
+	<province name="福建">
+		<city name="泉州"></city>	
+	</province>
+	<province name="甘肃">
+		<city name="兰州"></city>
+	</province>
+	<province name="广东">
+		<city name="东莞">莞城|南城|万江|东城|常平|塘厦|长安|虎门</city>
+	</province>
+	<province name="广西">
+		<city name="桂林"></city>
+		
+	</province>
+	<province name="贵州">
+		<city name="贵阳"></city>
+		
+	</province>
+	<province name="澳门">
+		<city name="圣方济各堂"></city>
+		
+	</province>
+	<province name="海南">
+		<city name="海口"></city>
+		
+	</province>
+	<province name="河南">
+		<city name="郑州"></city>
+		
+	</province>
+	<province name="河北">
+		<city name="石家庄"></city>
+		
+	</province>
+	<province name="黑龙江">
+		<city name="哈尔滨"></city>
+		
+	</province>
+	<province name="湖北">
+		<city name="武汉"></city>
+		
+	</province>
+	<province name="湖南">
+		<city name="长沙"></city>
+		
+	</province>
+	<province name="吉林">
+		<city name="长春"></city>
+		
+	</province>
+	<province name="江苏">
+		<city name="南京"></city>
+		
+	</province>
+	<province name="江西">
+		<city name="南昌"></city>
+		
+	</province>
+	<province name="辽宁">
+		<city name="沈阳"></city>
+		
+	</province>
+	<province name="内蒙古">
+		<city name="呼和浩特"></city>
+		
+	</province>
+	<province name="宁夏">
+		<city name="银川"></city>
+		
+	</province>
+	<province name="青海">
+		<city name="西宁"></city>
+		
+	</province>
+	<province name="山东">
+		<city name="济南"></city>
+		
+	</province>
+	<province name="山西">
+		<city name="太原"></city>
+		
+	</province>
+	<province name="陕西">
+		<city name="西安"></city>
+		
+	</province>
+	<province name="上海">
+		<city name="浦东"></city>
+		
+	</province>
+	<province name="四川">
+		<city name="成都"></city>
+		
+	</province>
+	<province name="台湾">
+		<city name="台北"></city>
+		
+	</province>
+	<province name="天津">
+		<city name="河东"></city>
+		
+	</province>
+	<province name="西藏">
+		<city name="拉萨"></city>
+		
+	</province>
+	<province name="香港">
+		<city name="九龙城"></city>
+		
+	</province>
+	<province name="新疆">
+		<city name="乌鲁木齐"></city>
+		
+	</province>
+	<province name="云南">
+		<city name="昆明"></city>
+		
+	</province>
+	<province name="浙江">
+		<city name="杭州"></city>
+		
+	</province>
+</country>
